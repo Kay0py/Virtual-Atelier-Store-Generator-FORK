@@ -1,7 +1,7 @@
 # Default store settings (you can modify these or add additional stores for your items)
 Imperial Imports:
     sources:
-        - 'r6/tweaks/*yaml'
+        - 'r6/tweaks/*.yaml'
         #- 'ALL:*/include_this_folder/*'        # Files needs to match all filters prefixed with the 'ALL:' tag
         #- 'NOT:*/do_not_include_this_folder/*' # Files cannot match any of the filters prefixed with the 'NOT:' tag
     filename: 'r6/scripts/ImperialImports-atelier-store.reds'
